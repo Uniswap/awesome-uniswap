@@ -4,10 +4,6 @@
 
 ---
 
-Example repo: https://github.com/makerdao/awesome-makerdao/blob/master/README.md
-
----
-
 ## Table of Contents
 
 <!-- TOC -->
