@@ -2,6 +2,9 @@
 
 [Uniswap](https://uniswap.io/) is a decentralized exchange protocol built on Ethereum.
 
+---
+
+Example repo: https://github.com/makerdao/awesome-makerdao/blob/master/README.md
 
 ---
 
