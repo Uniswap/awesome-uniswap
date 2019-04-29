@@ -9,8 +9,8 @@
 
 <!-- TOC -->
 
-- [Sites](#official-properties)
-- [Channels](#official-channels)
+- [Sites](#sites)
+- [Channels](#channels)
 
 
 <!-- /TOC -->
