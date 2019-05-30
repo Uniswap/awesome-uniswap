@@ -11,6 +11,7 @@
 - [Sites](#sites)
 - [Channels](#channels)
 - [Analytics](#analytics)
+- [APIs](#apis)
 - [Integrations](#integrations)
 
 
@@ -23,6 +24,7 @@
 - [Documentation](https://docs.uniswap.io/)
 - [Whitepaper](https://hackmd.io/C-DvwDSfSxuh-Gd4WKE_ig)
 - [Recommended Interface](http://uniswap.exchange)
+- [Socks](https://unisocks.exchange/)
 
 ## Channels
 - [Twitter](https://twitter.com/UniswapExchange)
@@ -38,8 +40,15 @@
 - [CoinGecko](https://www.coingecko.com/en/exchanges/uniswap)
 - [Alethio](https://public.tableau.com/profile/alethio#!/vizhome/DeFi_15529865481350/UniswapLiquidityProviders)
 
+## APIs
+- [The Graph](https://thegraph.com/explorer/subgraph/graphprotocol/uniswap)
+- [Loanscan](https://uniswap-api.loanscan.io/)
+- [Blocklytics (private)] https://blocklytics.org/
+
 ## Integrations
 - [Kyber](https://kyber.network/)
 - [Nuo Network](https://nuo.network/)
 - [InstaDApp](https://instadapp.io/)
+- [Burner Wallet](https://xdai.io/)
+- [Totle](https://www.totle.com/)
 - [STX SWISS](https://www.stx.swiss/)
