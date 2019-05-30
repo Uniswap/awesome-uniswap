@@ -41,3 +41,5 @@
 ## Integrations
 - [Kyber](https://kyber.network/)
 - [Nuo Network](https://nuo.network/)
+- [InstaDApp](https://instadapp.io/)
+- [STX SWISS](https://www.stx.swiss/)
