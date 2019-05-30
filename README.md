@@ -43,7 +43,7 @@
 ## APIs
 - [The Graph](https://thegraph.com/explorer/subgraph/graphprotocol/uniswap)
 - [Loanscan](https://uniswap-api.loanscan.io/)
-- [Blocklytics (private)] https://blocklytics.org/
+- [Blocklytics] (https://blocklytics.org/) (private)
 
 ## Integrations
 - [Kyber](https://kyber.network/)
