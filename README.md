@@ -13,6 +13,7 @@
 - [Analytics](#analytics)
 - [APIs](#apis)
 - [Integrations](#integrations)
+- [Media](#media)
 
 
 <!-- /TOC -->
@@ -52,3 +53,17 @@
 - [Burner Wallet](https://xdai.io/)
 - [Totle](https://www.totle.com/)
 - [STX SWISS](https://www.stx.swiss/)
+
+## Media
+### Articles
+- https://www.coindesk.com/bancor-uniswap-dex-competition
+- https://www.theblockcrypto.com/2019/04/23/paradigm-backs-decentralized-exchange-protocol-uniswap/
+- https://www.theblockcrypto.com/2019/02/27/uniswap-ethereums-unicorn/
+- https://www.theblockcrypto.com/2019/02/14/on-chain-activity-under-the-microscope-uniswap-leads-eth-mkr-market-difficulty-bomb-dampens-ethereum-issuance/
+
+### Podcasts
+- [Unconfirmed](https://unchainedpodcast.com/how-uniswap-quickly-became-one-of-the-most-popular-dexes/)
+- [Wyre Talks](https://wyre-talks.simplecast.com/episodes/3789ee3f-3789ee3f)
+
+### Videos
+- [Token Summit](https://www.youtube.com/watch?v=VsQw21cV680)
