@@ -59,7 +59,9 @@
 - [Nuo Network](https://nuo.network/)
 - [InstaDApp](https://instadapp.io/)
 - [Zerion](https://beta.zerion.io/0x11e4857bb9993a50c685a79afad4e6f65d518dda/overview)
+- [Synthetix](https://synthetix.exchange/)
 - [STX SWISS](https://www.stx.swiss/)
+- [Numerai](https://numer.ai/)
 #### DEX Aggregators
 - [Kyber](https://kyber.network/)
 - [Totle](https://www.totle.com/)
@@ -82,6 +84,7 @@
 ### Podcasts
 - [Unconfirmed](https://unchainedpodcast.com/how-uniswap-quickly-became-one-of-the-most-popular-dexes/)
 - [Wyre Talks](https://wyre-talks.simplecast.com/episodes/3789ee3f-3789ee3f)
+- [Epicenter](https://epicenter.tv/episode/292/)
 
 ### Videos
 - [Token Summit](https://www.youtube.com/watch?v=VsQw21cV680)
