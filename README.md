@@ -92,6 +92,7 @@
 - Mohamed Fouda: [P&L analysis of Uniswap Market Making](https://www.tokendaily.co/blog/pnl-analysis-of-uniswap-market-making)
 - Ross Bulat: [Uniswap: Understanding the Decentralised Ethereum Exchange
 ](https://medium.com/block-journal/uniswap-understanding-the-decentralised-ethereum-exchange-5ee5d7878996)
+- Delphi Digitial: [Uniswap Research & Analysis](https://www.delphidigital.io/uniswap)
 
 ### News
 - https://www.coindesk.com/bancor-uniswap-dex-competition
