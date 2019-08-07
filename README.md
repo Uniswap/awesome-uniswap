@@ -69,8 +69,8 @@
 - [Shiftly](https://shiftly.finance/)
 - [1inch Exchange](https://1inch.exchange/)
 #### Wallets
-- [Rainbow Wallet](https://www.argent.xyz/)
-- [Argent Wallet](https://rainbow.me/)
+- [Rainbow Wallet](https://rainbow.me/)
+- [Argent Wallet](https://www.argent.xyz/)
 - [imToken](https://token.im/)
 - [Burner Wallet](https://xdai.io/)
 
