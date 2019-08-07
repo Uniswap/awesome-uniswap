@@ -85,10 +85,12 @@
 
 ## Media
 ### Articles
-- [Uniswap — A Unique Exchange (Cyrus Younessi)](https://medium.com/scalar-capital/uniswap-a-unique-exchange-f4ef44f807bf)
-- [Uniswap: A Good Deal for Liquidity Providers? (Pintail)](https://medium.com/@pintail/uniswap-a-good-deal-for-liquidity-providers-104c0b6816f2)
-- [Understanding Uniswap Returns (Pintail)](https://medium.com/@pintail/understanding-uniswap-returns-cc593f3499ef)
-- [P&L analysis of Uniswap Market Making (Mohamed Fouda](https://www.tokendaily.co/blog/pnl-analysis-of-uniswap-market-making)
+- Cyrus Younessi: [Uniswap — A Unique Exchange](https://medium.com/scalar-capital/uniswap-a-unique-exchange-f4ef44f807bf)
+- Pintail: [Uniswap: A Good Deal for Liquidity Providers?](https://medium.com/@pintail/uniswap-a-good-deal-for-liquidity-providers-104c0b6816f2)
+- Pintail: [Understanding Uniswap Returns (Pintail)](https://medium.com/@pintail/understanding-uniswap-returns-cc593f3499ef)
+- Mohamed Fouda: [P&L analysis of Uniswap Market Making](https://www.tokendaily.co/blog/pnl-analysis-of-uniswap-market-making)
+- Ross Bulat: [Uniswap: Understanding the Decentralised Ethereum Exchange
+](https://medium.com/block-journal/uniswap-understanding-the-decentralised-ethereum-exchange-5ee5d7878996)
 
 ### News
 - https://www.coindesk.com/bancor-uniswap-dex-competition
