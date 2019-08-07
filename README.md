@@ -56,26 +56,41 @@
 - [Blocklytics](https://blocklytics.org/) (private)
 
 ## Integrations
-- [Nuo Network](https://nuo.network/)
+#### Interfaces
 - [InstaDApp](https://instadapp.io/)
 - [Zerion](https://beta.zerion.io/0x11e4857bb9993a50c685a79afad4e6f65d518dda/overview)
-- [Synthetix](https://synthetix.exchange/)
 - [STX SWISS](https://www.stx.swiss/)
+
+#### Protocols
+- [Ocean Protocol](https://oceanprotocol.com/)
+- [Synthetix](https://synthetix.exchange/)
+- [Nuo Network](https://nuo.network/)
 - [Numerai](https://numer.ai/)
+
 #### DEX Aggregators
 - [Kyber](https://kyber.network/)
 - [Totle](https://www.totle.com/)
 - [DEX.ag](https://dex.ag/)
 - [Shiftly](https://shiftly.finance/)
 - [1inch Exchange](https://1inch.exchange/)
+
 #### Wallets
 - [Rainbow Wallet](https://rainbow.me/)
 - [Argent Wallet](https://www.argent.xyz/)
 - [imToken](https://token.im/)
 - [Burner Wallet](https://xdai.io/)
 
+#### Other
+- [Hummingbot](https://hummingbot.io/)
+
 ## Media
 ### Articles
+- [Uniswap — A Unique Exchange (Cyrus Younessi)](https://medium.com/scalar-capital/uniswap-a-unique-exchange-f4ef44f807bf)
+- [Uniswap: A Good Deal for Liquidity Providers? (Pintail)](https://medium.com/@pintail/uniswap-a-good-deal-for-liquidity-providers-104c0b6816f2)
+- [Understanding Uniswap Returns (Pintail)](https://medium.com/@pintail/understanding-uniswap-returns-cc593f3499ef)
+- [P&L analysis of Uniswap Market Making (Mohamed Fouda](https://www.tokendaily.co/blog/pnl-analysis-of-uniswap-market-making)
+
+### News
 - https://www.coindesk.com/bancor-uniswap-dex-competition
 - https://www.theblockcrypto.com/2019/04/23/paradigm-backs-decentralized-exchange-protocol-uniswap/
 - https://www.theblockcrypto.com/2019/02/27/uniswap-ethereums-unicorn/
