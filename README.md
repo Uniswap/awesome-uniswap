@@ -48,6 +48,7 @@
 - [ZumZoom](https://zumzoom.github.io/analytics/uniswap/liquidity.html)
 - [CoinGecko](https://www.coingecko.com/en/exchanges/uniswap)
 - [Alethio](https://public.tableau.com/profile/alethio#!/vizhome/DeFi_15529865481350/UniswapLiquidityProviders)
+- [CMC.io](https://cmc.io/exchanges/uniswap)
 
 ## APIs
 - [The Graph](https://thegraph.com/explorer/subgraph/graphprotocol/uniswap)
