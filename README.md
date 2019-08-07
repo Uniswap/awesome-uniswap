@@ -10,6 +10,7 @@
 
 - [Sites](#sites)
 - [Channels](#channels)
+- [Developer Tools](#tools)
 - [Analytics](#analytics)
 - [APIs](#apis)
 - [Integrations](#integrations)
@@ -29,32 +30,47 @@
 
 ## Channels
 - [Twitter](https://twitter.com/UniswapExchange)
+- [Discord](https://discord.gg/tX9NDcK)
 - [Reddit](https://www.reddit.com/r/uniswap/)
 - [Slack](https://join.slack.com/t/uni-swap/shared_invite/enQtNDYwMjg1ODc5ODA4LWEyYmU0OGU1ZGQ3NjE4YzhmNzcxMDAyM2ExNzNkZjZjZjcxYTkwNzU0MGE3M2JkNzMxOTA2MzE2ZWM0YWQwNjU)
 - [Email](mailto:contact@uniswap.io)
 - [Github](https://github.com/Uniswap/)
 
+## Tools
+- [SDK](https://github.com/Uniswap/uniswap-sdk)
+- [SDK docs](https://docs.uniswap.io/sdk-documentation/get-started)
+
 ## Analytics
 - [Uniswap.info](https://beta.uniswap.info/)
-- [Uniswap.rocks](https://uniswap.rocks/)
+- [Uniswap ROI](https://www.uniswaproi.com/#)
+- [defistats.io](https://defistats.io/#/uniswap/)
+- [defipulse.com](https://defipulse.com/)
 - [ZumZoom](https://zumzoom.github.io/analytics/uniswap/liquidity.html)
 - [CoinGecko](https://www.coingecko.com/en/exchanges/uniswap)
 - [Alethio](https://public.tableau.com/profile/alethio#!/vizhome/DeFi_15529865481350/UniswapLiquidityProviders)
-- [ROI Calculator](https://uniswap-roi.herokuapp.com/#)
-
 
 ## APIs
 - [The Graph](https://thegraph.com/explorer/subgraph/graphprotocol/uniswap)
+- [The Graph REST wrapper](https://docs.uniswap.io/api-documentation/get-started)
 - [Loanscan](https://uniswap-api.loanscan.io/)
 - [Blocklytics](https://blocklytics.org/) (private)
 
 ## Integrations
-- [Kyber](https://kyber.network/)
 - [Nuo Network](https://nuo.network/)
 - [InstaDApp](https://instadapp.io/)
-- [Burner Wallet](https://xdai.io/)
-- [Totle](https://www.totle.com/)
+- [Zerion](https://beta.zerion.io/0x11e4857bb9993a50c685a79afad4e6f65d518dda/overview)
 - [STX SWISS](https://www.stx.swiss/)
+#### DEX Aggregators
+- [Kyber](https://kyber.network/)
+- [Totle](https://www.totle.com/)
+- [DEX.ag](https://dex.ag/)
+- [Shiftly](https://shiftly.finance/)
+- [1inch Exchange](https://1inch.exchange/)
+#### Wallets
+- [Rainbow Wallet](https://www.argent.xyz/)
+- [Argent Wallet](https://rainbow.me/)
+- [imToken](https://token.im/)
+- [Burner Wallet](https://xdai.io/)
 
 ## Media
 ### Articles
