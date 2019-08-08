@@ -54,7 +54,7 @@
 - [The Graph](https://thegraph.com/explorer/subgraph/graphprotocol/uniswap)
 - [The Graph REST wrapper](https://docs.uniswap.io/api-documentation/get-started)
 - [Loanscan](https://uniswap-api.loanscan.io/)
-- [Blocklytics](https://blocklytics.org/) (private)
+- [Blocklytics](https://docs.blocklytics.org/apis/uniswap-api) (API key required)
 
 ## Integrations
 #### Interfaces
@@ -100,6 +100,9 @@
 - https://www.theblockcrypto.com/2019/04/23/paradigm-backs-decentralized-exchange-protocol-uniswap/
 - https://www.theblockcrypto.com/2019/02/27/uniswap-ethereums-unicorn/
 - https://www.theblockcrypto.com/2019/02/14/on-chain-activity-under-the-microscope-uniswap-leads-eth-mkr-market-difficulty-bomb-dampens-ethereum-issuance/
+
+### Newsletters
+- Blocklytics: [Weekly Uniswap Report](https://us19.campaign-archive.com/home/?u=e88f92fc087c0abfb94d292eb&id=a12a599126)
 
 ### Podcasts
 - [Unconfirmed](https://unchainedpodcast.com/how-uniswap-quickly-became-one-of-the-most-popular-dexes/)
