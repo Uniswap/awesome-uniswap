@@ -49,6 +49,7 @@
 - [CoinGecko](https://www.coingecko.com/en/exchanges/uniswap)
 - [Alethio](https://public.tableau.com/profile/alethio#!/vizhome/DeFi_15529865481350/UniswapLiquidityProviders)
 - [CMC.io](https://cmc.io/exchanges/uniswap)
+- [Dune Analytics](https://explore.duneanalytics.com/public/dashboards/c87JEtVi2GlyIZHQOR02NsfyJV48eaKEQSiKplJ7)
 
 ## APIs
 - [The Graph](https://thegraph.com/explorer/subgraph/graphprotocol/uniswap)
@@ -75,6 +76,7 @@
 - [DEX.ag](https://dex.ag/)
 - [Shiftly](https://shiftly.finance/)
 - [1inch Exchange](https://1inch.exchange/)
+- [Hello Fetch](https://hellofetch.co/)
 
 #### Wallets
 - [Rainbow Wallet](https://rainbow.me/)
