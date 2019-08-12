@@ -69,6 +69,7 @@
 - [Synthetix](https://synthetix.exchange/)
 - [Nuo Network](https://nuo.network/)
 - [Numerai](https://numer.ai/)
+- [Opyn](https://www.opyn.co/)
 
 #### DEX Aggregators
 - [Kyber](https://kyber.network/)
