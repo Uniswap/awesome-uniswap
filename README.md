@@ -49,12 +49,13 @@
 - [CoinGecko](https://www.coingecko.com/en/exchanges/uniswap)
 - [Alethio](https://public.tableau.com/profile/alethio#!/vizhome/DeFi_15529865481350/UniswapLiquidityProviders)
 - [CMC.io](https://cmc.io/exchanges/uniswap)
+- [Dune Analytics](https://explore.duneanalytics.com/public/dashboards/c87JEtVi2GlyIZHQOR02NsfyJV48eaKEQSiKplJ7)
 
 ## APIs
 - [The Graph](https://thegraph.com/explorer/subgraph/graphprotocol/uniswap)
 - [The Graph REST wrapper](https://docs.uniswap.io/api-documentation/get-started)
 - [Loanscan](https://uniswap-api.loanscan.io/)
-- [Blocklytics](https://blocklytics.org/) (private)
+- [Blocklytics](https://docs.blocklytics.org/apis/uniswap-api) (API key required)
 
 ## Integrations
 #### Interfaces
@@ -68,6 +69,7 @@
 - [Synthetix](https://synthetix.exchange/)
 - [Nuo Network](https://nuo.network/)
 - [Numerai](https://numer.ai/)
+- [Opyn](https://www.opyn.co/)
 
 #### DEX Aggregators
 - [Kyber](https://kyber.network/)
@@ -75,6 +77,7 @@
 - [DEX.ag](https://dex.ag/)
 - [Shiftly](https://shiftly.finance/)
 - [1inch Exchange](https://1inch.exchange/)
+- [Hello Fetch](https://hellofetch.co/)
 
 #### Wallets
 - [Rainbow Wallet](https://rainbow.me/)
@@ -100,6 +103,9 @@
 - https://www.theblockcrypto.com/2019/04/23/paradigm-backs-decentralized-exchange-protocol-uniswap/
 - https://www.theblockcrypto.com/2019/02/27/uniswap-ethereums-unicorn/
 - https://www.theblockcrypto.com/2019/02/14/on-chain-activity-under-the-microscope-uniswap-leads-eth-mkr-market-difficulty-bomb-dampens-ethereum-issuance/
+
+### Newsletters
+- Blocklytics: [Weekly Uniswap Report](https://us19.campaign-archive.com/home/?u=e88f92fc087c0abfb94d292eb&id=a12a599126)
 
 ### Podcasts
 - [Unconfirmed](https://unchainedpodcast.com/how-uniswap-quickly-became-one-of-the-most-popular-dexes/)
