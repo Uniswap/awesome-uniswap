@@ -25,7 +25,7 @@
 - [Protocol Website](https://uniswap.io/)
 - [Documentation](https://docs.uniswap.io/)
 - [Whitepaper](https://hackmd.io/C-DvwDSfSxuh-Gd4WKE_ig)
-- [Recommended Interface](http://uniswap.exchange)
+- [Trading Interface](http://uniswap.exchange)
 - [Socks](https://unisocks.exchange/)
 
 ## Channels
@@ -35,6 +35,7 @@
 - [Slack](https://join.slack.com/t/uni-swap/shared_invite/enQtNDYwMjg1ODc5ODA4LWEyYmU0OGU1ZGQ3NjE4YzhmNzcxMDAyM2ExNzNkZjZjZjcxYTkwNzU0MGE3M2JkNzMxOTA2MzE2ZWM0YWQwNjU)
 - [Email](mailto:contact@uniswap.io)
 - [Github](https://github.com/Uniswap/)
+- [Medium](https://medium.com/uniswap/)
 
 ## Tools
 - [SDK](https://github.com/Uniswap/uniswap-sdk)
@@ -71,6 +72,8 @@
 - [Nuo Network](https://nuo.network/)
 - [Numerai](https://numer.ai/)
 - [Opyn](https://www.opyn.co/)
+- [Althea Mesh](https://althea.net/)
+- [Pool Together](https://app.pooltogether.com/)
 
 #### DEX Aggregators
 - [Kyber](https://kyber.network/)
