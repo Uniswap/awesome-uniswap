@@ -52,6 +52,7 @@
 - [CMC.io](https://cmc.io/exchanges/uniswap)
 - [Dune Analytics](https://explore.duneanalytics.com/public/dashboards/c87JEtVi2GlyIZHQOR02NsfyJV48eaKEQSiKplJ7)
 - [Pools.fyi](https://pools.fyi/)
+- [DeFi Portfolio Tracker](https://portfolio.defiprime.com/)
 
 ## APIs
 - [The Graph](https://thegraph.com/explorer/subgraph/graphprotocol/uniswap)
