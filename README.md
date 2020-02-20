@@ -62,6 +62,7 @@
 
 ## Integrations
 #### Interfaces
+- [DeFiZap](https://www.defizap.com/)
 - [FOAM](https://www.foam.space/)
 - [InstaDApp](https://instadapp.io/)
 - [Zerion](https://beta.zerion.io/0x11e4857bb9993a50c685a79afad4e6f65d518dda/overview)
