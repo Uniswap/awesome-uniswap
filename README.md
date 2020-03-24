@@ -22,8 +22,10 @@
 ---
 
 ## Sites
-- [Protocol Website](https://uniswap.io/)
-- [Documentation](https://docs.uniswap.io/)
+- [Protocol Website](https://uniswap.org/)
+- [Blog](https://uniswap.org/blog)
+- [Documentation (v1)](https://docs.uniswap.io/)
+- [Documentation (v2)](https://uniswap.org/docs/v2)
 - [Whitepaper](https://hackmd.io/C-DvwDSfSxuh-Gd4WKE_ig)
 - [Trading Interface](http://uniswap.exchange)
 - [Socks](https://unisocks.exchange/)
@@ -32,21 +34,19 @@
 - [Twitter](https://twitter.com/UniswapExchange)
 - [Discord](https://discord.gg/tX9NDcK)
 - [Reddit](https://www.reddit.com/r/uniswap/)
-- [Slack](https://join.slack.com/t/uni-swap/shared_invite/enQtNDYwMjg1ODc5ODA4LWEyYmU0OGU1ZGQ3NjE4YzhmNzcxMDAyM2ExNzNkZjZjZjcxYTkwNzU0MGE3M2JkNzMxOTA2MzE2ZWM0YWQwNjU)
-- [Email](mailto:contact@uniswap.io)
+- [Email](mailto:contact@uniswap.org)
 - [Github](https://github.com/Uniswap/)
-- [Medium](https://medium.com/uniswap/)
 
 ## Tools
 - [SDK](https://github.com/Uniswap/uniswap-sdk)
-- [SDK docs](https://docs.uniswap.io/sdk-documentation/get-started)
 
 ## Analytics
-- [Uniswap.info](https://beta.uniswap.info/)
+- [Uniswap.info](https://uniswap.info/)
 - [Uniswap ROI](https://www.uniswaproi.com/#)
 - [defistats.io](https://defistats.io/#/uniswap/)
 - [defipulse.com](https://defipulse.com/)
 - [ZumZoom](https://zumzoom.github.io/analytics/uniswap/liquidity.html)
+- [CoinMarketCap](https://coinmarketcap.com/exchanges/uniswap/)
 - [CoinGecko](https://www.coingecko.com/en/exchanges/uniswap)
 - [Alethio](https://public.tableau.com/profile/alethio#!/vizhome/DeFi_15529865481350/UniswapLiquidityProviders)
 - [CMC.io](https://cmc.io/exchanges/uniswap)
@@ -56,19 +56,19 @@
 
 ## APIs
 - [The Graph](https://thegraph.com/explorer/subgraph/graphprotocol/uniswap)
-- [The Graph REST wrapper](https://docs.uniswap.io/api-documentation/get-started)
 - [Loanscan](https://uniswap-api.loanscan.io/)
 - [Blocklytics](https://docs.blocklytics.org/apis/uniswap-api) (API key required)
 
 ## Integrations
-#### Interfaces
-- [DeFiZap](https://www.defizap.com/)
-- [FOAM](https://www.foam.space/)
-- [InstaDApp](https://instadapp.io/)
+
+### Interfaces
 - [Zerion](https://beta.zerion.io/0x11e4857bb9993a50c685a79afad4e6f65d518dda/overview)
+- [DeFiZap](https://www.defizap.com/)
+- [InstaDApp](https://instadapp.io/)
+- [FOAM](https://www.foam.space/)
 - [STX SWISS](https://www.stx.swiss/)
 
-#### Protocols
+### Protocols
 - [Ocean Protocol](https://oceanprotocol.com/)
 - [Synthetix](https://synthetix.exchange/)
 - [Nuo Network](https://nuo.network/)
@@ -77,7 +77,7 @@
 - [Althea Mesh](https://althea.net/)
 - [Pool Together](https://app.pooltogether.com/)
 
-#### DEX Aggregators
+### DEX Aggregators
 - [Kyber](https://kyber.network/)
 - [Totle](https://www.totle.com/)
 - [DEX.ag](https://dex.ag/)
@@ -85,16 +85,17 @@
 - [1inch Exchange](https://1inch.exchange/)
 - [Hello Fetch](https://hellofetch.co/)
 
-#### Wallets
+### Wallets
 - [Rainbow Wallet](https://rainbow.me/)
 - [Argent Wallet](https://www.argent.xyz/)
 - [imToken](https://token.im/)
 - [Burner Wallet](https://xdai.io/)
 
-#### Other
+### Other
 - [Hummingbot](https://hummingbot.io/)
 
 ## Media
+
 ### Articles
 - Cyrus Younessi: [Uniswap — A Unique Exchange](https://medium.com/scalar-capital/uniswap-a-unique-exchange-f4ef44f807bf)
 - Pintail: [Uniswap: A Good Deal for Liquidity Providers?](https://medium.com/@pintail/uniswap-a-good-deal-for-liquidity-providers-104c0b6816f2)
