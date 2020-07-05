@@ -63,7 +63,7 @@
 
 ### Interfaces
 - [Zerion](https://beta.zerion.io/0x11e4857bb9993a50c685a79afad4e6f65d518dda/overview)
-- [DeFiZap](https://www.defizap.com/)
+- [Zapper.fi](https://www.zapper.fi/)
 - [InstaDApp](https://instadapp.io/)
 - [FOAM](https://www.foam.space/)
 - [STX SWISS](https://www.stx.swiss/)
