@@ -31,8 +31,8 @@
 - [Socks](https://unisocks.exchange/)
 
 ## Channels
-- [Twitter](https://twitter.com/UniswapExchange)
-- [Discord](https://discord.gg/tX9NDcK)
+- [Twitter](https://twitter.com/UniswapProtocol)
+- [Discord](https://discord.gg/XErMcTq)
 - [Reddit](https://www.reddit.com/r/uniswap/)
 - [Email](mailto:contact@uniswap.org)
 - [Github](https://github.com/Uniswap/)
