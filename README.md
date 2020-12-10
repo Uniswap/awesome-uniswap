@@ -58,6 +58,7 @@
 - [The Graph](https://thegraph.com/explorer/subgraph/graphprotocol/uniswap)
 - [Loanscan](https://uniswap-api.loanscan.io/)
 - [Blocklytics](https://docs.blocklytics.org/apis/uniswap-api) (API key required)
+- [Zabo](https://zabo.com/) (API key required)
 
 ## Integrations
 
