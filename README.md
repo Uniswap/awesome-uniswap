@@ -104,6 +104,7 @@
 - Ross Bulat: [Uniswap: Understanding the Decentralised Ethereum Exchange
 ](https://medium.com/block-journal/uniswap-understanding-the-decentralised-ethereum-exchange-5ee5d7878996)
 - Delphi Digitial: [Uniswap Research & Analysis](https://www.delphidigital.io/uniswap)
+- Zabo: [What is Uniswap? Understanding the DeFi Exchange](https://zabo.com/blog/what-is-uniswap-understanding-defi-exchange/)
 
 ### News
 - https://www.coindesk.com/bancor-uniswap-dex-competition
